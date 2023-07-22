@@ -1,0 +1,34 @@
+# Introduction
+
+
+ Bitcoin is math and text distributed over a computer network. The operators of this network are called nodes. The miners perform a specific math calculation until they find the winning number. I will explain how this lotto works more in other chapters, but for now, just think about it for a second. We have this thing of value that was created in the world that requires nothing but computers. These computers create absolute mathematical scarcity. No one person is in charge. It is a peer-to-peer network like BitTorrent. We are a small number of people that run nodes for our own financial network. This financial network is not owned by any government or corporation. It is not controlled by a central bank. Nobody tells us how much inflation we must endure every month. We all know the inflation rate in advance. In the same way we know a Jack and Ace equal 21, we know there will never be more than 21 million bitcoin. We can walk into any casino in the world and play blackjack. We know if we get an ace and a Jack, our hand equals 21. The world has come to agreement on this number. We would not go to Vegas, get those two cards, and expect to bust because all of a sudden an Ace and a Jack equal 42. This guide will teach you how to take self-custody of bitcoin from start to finish. Just remember, this is a financial network run by peers. Bitcoin is not just some computer thing. It requires human action. It takes plebs stamping steel, developers writing code, miners mining blocks, and people who care enough about bitcoin to run their own node. It requires a culture to be built around it, and now social layers are developing along with it. It requires you to take custody. It is not enough to send fiat to an exchange or count your Bitcoin IOUs. You must take self-custody; otherwise, what's the point?
+
+
+ Bitcoin was released in the midst of the Great Financial Crisis. The words "Chancelor on the brink of a second bailout for banks" were engraved on the genesis block. Fiat currencies debase. To avoid this debasement, people invest their money in stocks, bonds, and real estate. These all require a trusted third party like the co-founder of the NASDAQ, Bernie Maddoff. Bernie Madoff told his clients he was investing their money in something or other, but he didn't actually invest any of the billions of dollars he received. He was investigated by the SEC several times, but they didn't do anything about it. Then the financial world blew up, and he could no longer keep the Ponzi scheme going. His "investors" lost everything, as they say, but it was really stolen. Bernie Madoff ended up going to prison. He became the scapegoat for the entire financial crisis, but Bernie Madoff was not responsible for Washington Mutual or IndyMac Bank. Bear Sterns blew itself up, and this also had nothing to do with Bernie.
+
+
+Satoshi was very clear about bitcoin being an alternative to trusted third parties. Here is an example posted on the P2P Foundation in February of 2009:
+'''
+"I've developed a new open-source P2P e-cash system called Bitcoin. It's completely decentralized, with no central server or trusted parties, because everything is based on cryptography instead of trust. Give it a try, or take a look at the screenshots and design paper:
+
+
+Download Bitcoin v0.1 at http://www.bitcoin.org.
+
+
+The root problem with conventional currency is all the trust that's required to make it work. **The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust. Banks must be trusted to hold our money and transfer it electronically, but they lend it out in waves of credit bubbles with barely a fraction in reserve. We have to trust them with our privacy and trust them not to let identity thieves drain our accounts. Their massive overhead costs make micropayments impossible**."
+'''
+
+
+In the Abstract of the white paper, he wrote:
+
+
+"A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. **Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending**. We propose a solution to the double-spending problem using a peer-to-peer network."
+
+
+ This book aims to teach you how to obtain bitcoin without going through an exchange. If we do not use a centralized exchange, we don't need to trust them with holding our money, with our privacy, or with not letting identity thieves drain our accounts. The idea is to teach you how to go from owning zero sats to using multi-sig.
+
+
+
+
+http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source
+https://nakamotoinstitute.org/bitcoin/
