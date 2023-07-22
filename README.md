@@ -1,4 +1,4 @@
-# BitccoinSelfCustodyTheEasyWay
+# Bitcoin Self-Custody The Easy Way
 A book that teaches you how to go from zero to multi-sig hero.
 
 There are a lot of tutorials that teach you how t take self-custody of your bitcoin. Most of the ideas in this book are not my own, but rather the product of studying bitcoin every day for about nine years.  When I first started out, there was not much information out there. I heard about bitcoin on the Joe Rogan Experience. I read the bitcoin white paper,used the wallet Andreas recomended at the time, and posted my first bitcoin address on Twitter: "I just heard about this bitcoin thing and created a wallet. Can somebody please send me a small ammount.  I'm not begging, I just want to see how this works.
