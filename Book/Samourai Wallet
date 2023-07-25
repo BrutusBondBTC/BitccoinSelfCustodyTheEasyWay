@@ -1,1 +1,38 @@
+To get our first bitcoin, we will need a wallet. Your first wallet should be a mobile wallet. We choose Samourai Wallet because it allows us to use bitcoin privately. We are also not using KYC exchanges. The Samourai Wallet will need permission to use your camera to take pictures of QR codes depicting bitcoin addresses. It does ask for a selfie, email address, driver's licence, passport or retinal scan. Most exchanges make money off of charging a small fee each time you buy bitcoin from them. Samourai does the opposite.  They do not sell bitcoin, but charge a fee to make coin join transactions. This service fee is about 5%, but supports the circular economy and lets us achieve self-sovereign privacy. The point of this book is to teach you how to use bitcoin without ever going through a financial institution, but for practical purposes, it is easier to use financial institutions while buying KYC free sats with digital fiat.  In the next chapter I will teach you how to buy bitcoin using nothing but paper fiat, some security bags, and Bisq.  But first, you need a wallet.
+
+Step 1: Get a BIP 85 Seed from our Cold Card the easy way. 
+
+* Unlock your device by entering your PIN prefix.
+* Check your anti phishing words.
+* Enter the rest of your PIN
+* Navigate to Advanved > Derive Enrtopy> Enter Index. (choose a number)
+* Choose 12 words.
+* Wtite this number down in a small notebook.
+* The number can be anything fron 1-9,999, but make sure you remember it. In my experience, 1 is easier to remember than 6,037. 
+* Scroll down and do what the cold Card tells you. It's important, so actually read it off the Cold Card.
+* Write down the fingerprint and the first 5  and last 5 of the first bitcoin address(index0).
+* Once you are using the new add a passphrase. 
+
+### How to Choose A Passphrase
+
+
+Recall thst when we did a SHA256 hash of the entire text ofWar and Peace, we got one result, and when we added the number 1 to this text, we got an entire new result? That's how Passphrase work.
+
+A new passphrase is simmilar. If we get one character wrong, we will have a new wallet. Great, unless you made a mistake, but that"s why we will not shoot ourselves in the footstr by adding random ass symbols, Latin characters, or anything crazy. Don't trust those websites that tell you to use at least 8 characters, a number, and special character. That's cybersecurity advice for normies who wrire IloveB0b on a post-it and stick it on their monitor. We're more sophisticated than that. We will chose 6 random words from the BIP 39 list. The odds of guessing this will be 2048*2048*2048*2048*2048*2048 or 1-in-
+73786976294838206464. I say that's secure enouph for a couple million sats or so, but if you decide to put your life savings on it, you might want to use 12 words.
+
+Why 6 words?
+
+Before we had pocket computers, people had to call each other by dialing phone numbers with their fingers. We memoriz
+ed many of our close friends and family phone numbers. You don't need  Einstiens' brain to memorize 7 digits and it doesn't take a genius to memorize 6 words either. You'll want to write them down and keep them in a secure place away from your home. They can be laminated and hidden under a bus stop seat, a table at a restaurant, and a lamp post using Gorilla tape. Your limited only by your imagination. I suggest making a few backups just in case. Check on them everyvso often, but don't worry. Even if Adam Back himself somehow finds these 6 words it said BIP39 passphrase--He still would not be able to spend your bitcoin without your 12 BIP85 seed words.
+
+
+### Enter the 12 words Into Samorai Wallet.
+
+Enter yiur seed phrase
+Enter your passphrase
+Check the fingerprint 
+Check the first 5 and last 5 of the first address.
+
+Now you have a wallet that's ready for the streets. You learned that the mathmatics of bitcoin work on any wallet. The Cold Card is literally just a calculator. We learned our seed can be recovered by using our Index number on our cold card and our cold card seed is backed by military grade steel. In the next chapter comes the fun part. Sell something for bitcoin.
 
